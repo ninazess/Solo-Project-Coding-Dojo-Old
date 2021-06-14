@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#container{
+    margin:auto;
+    width:970px;
+}
+
+#nav{
+    display:flex;
+    justify-content:center;
+    background-color:lightgray;
+}
